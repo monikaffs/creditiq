@@ -1,0 +1,13 @@
+{
+  "age": "Age",
+  "MonthlyIncome": "Monthly Income",
+  "DebtRatio": "Debt-to-Income Ratio",
+  "NumberOfOpenCreditLinesAndLoans": "Open Credit Lines",
+  "NumberOfTime30-59DaysPastDueNotWorse": "Late Payments (30-59 days)",
+  "NumberOfTime60-89DaysPastDueNotWorse": "Late Payments (60-89 days)",
+  "NumberOfTimes90DaysLate": "Late Payments (90+ days)",
+  "NumberOfDependents": "Number of Dependents",
+  "TotalRevolvingBalance": "Total Revolving Balance",
+  "RevolvingUtilizationOfUnsecuredLines": "Revolving Utilisation Rate",
+  "TotalLatePayments": "Total Late Payments"
+}

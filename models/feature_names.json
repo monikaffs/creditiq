@@ -1,0 +1,13 @@
+[
+  "age",
+  "MonthlyIncome",
+  "DebtRatio",
+  "NumberOfOpenCreditLinesAndLoans",
+  "NumberOfTime30-59DaysPastDueNotWorse",
+  "NumberOfTime60-89DaysPastDueNotWorse",
+  "NumberOfTimes90DaysLate",
+  "NumberOfDependents",
+  "TotalRevolvingBalance",
+  "RevolvingUtilizationOfUnsecuredLines",
+  "TotalLatePayments"
+]
