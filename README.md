@@ -3,7 +3,7 @@
 > An ML web app that predicts loan default probability and explains 
 > decisions using SHAP — built for transparent credit risk assessment.
 
-🔗 **[Live Demo](your-streamlit-url)**
+🔗 **[Live Demo](https://creditiq-risk-predictor.streamlit.app/)**
 
 ---
 
